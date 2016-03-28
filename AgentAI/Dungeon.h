@@ -6,5 +6,5 @@ public:
 	~DungeonClass();
 	
 	//file in/out. for reading the dungeon from file
-	void DungeonClass::fileIO();
+	void DungeonClass::loadLayout();
 };

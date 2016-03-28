@@ -3,7 +3,7 @@
 int main()
 {
 	DungeonClass dungeon;
-	DungeonClass loadLayout();
+	dungeon.loadLayout();
 	char response;
 	std::cin >> response;
 	return 0;

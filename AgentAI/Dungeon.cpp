@@ -32,3 +32,8 @@ void DungeonClass::loadLayout()
 
 	
 }
+
+void DungeonClass::defineTiles()
+{
+
+}
